@@ -132,6 +132,7 @@
 }
 
 .list-inline {
+  max-width: fit-content;
   text-align: center;
   margin: auto;
   padding: 20px 0;
