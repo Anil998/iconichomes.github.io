@@ -126,7 +126,7 @@
 .footer-basic .copyright {
   margin-top: 15px;
   text-align: center;
-  font-size: 13px;
+  font-size: 15px;
   color: #aaa;
   margin-bottom: 0;
 }
@@ -186,12 +186,12 @@ span {
   left: 0;
   bottom: 0;
   transition: 0.5s;
+  
 }
 
 button:hover span {
   width: 100%;
 }
-
 button:hover {
   border: none;
 }
