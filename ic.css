@@ -61,10 +61,11 @@
 
 
 .footer-basic {
-    padding:30px 0;
-    background-color:#ffffff;
-    color:#4b4c4d;
-  }
+  align-items: center;
+  padding: 30px 0;
+  background-color: #ffffff;
+  color: #4b4c4d;
+}
   
   .footer-basic ul {
     padding:0;
