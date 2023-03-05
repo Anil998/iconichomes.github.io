@@ -190,9 +190,11 @@ span {
 }
 
 button:hover span {
+  border-radius: 25px;
   width: 100%;
 }
 
 button:hover {
+  border-radius: 25px;
   border: none;
 }
