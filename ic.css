@@ -164,10 +164,11 @@
 }
 
 button {
+  align-items: center;
   width: 200px;
   padding: 15px 0;
   text-align: center;
-  margin: 20px 10px 20px;
+  margin: 20px 10px 2px;
   border-radius: 25px;
   font-weight: bold;
   border: 2px solid #009688;
@@ -177,6 +178,7 @@ button {
   position: relative;
   overflow: hidden;
 }
+
 
 span {
   background: #009688;
