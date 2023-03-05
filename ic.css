@@ -164,7 +164,6 @@
 }
 
 button {
-  margin-bottom: 2px;
   width: 200px;
   padding: 15px 0;
   text-align: center;
@@ -187,6 +186,7 @@ span {
   position: absolute;
   left: 0;
   bottom: 0;
+  margin-bottom: 2px;
   transition: 0.5s;
 }
 
